@@ -1,0 +1,5 @@
+This file is created for TexTools software, Resmat Corp 
+ODF file name: solodf.HODF 
+
+B	1	0 
+	311.85	14.61	42.69	1
